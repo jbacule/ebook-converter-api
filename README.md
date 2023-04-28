@@ -1,6 +1,6 @@
 # Ebook Converter API
 
-Sample Ebook Converter API for Pixel Reader Backend. Used for different ebook format converting to epub file. 
+Simple Ebook Converter API for E-books. Used for different ebook format converting to epub file. 
 
 ## Prerequisite
 - Make sure you install Calibre app in your machine. Just go to this link: [https://calibre-ebook.com/download](https://calibre-ebook.com/download)
